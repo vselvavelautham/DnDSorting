@@ -1,0 +1,84 @@
+Barbarian - Alf A. Romeo
+25
+15
+30
+1
+2
+5
+Bard - Chip Munk
+16
+22
+15
+17
+11
+24
+Cleric - Barry Cade
+9
+4
+13
+22
+26
+27
+Druid - Brock Lee
+17
+16
+19
+14
+21
+25
+Fighter - Anna Sasin
+23
+17
+16
+5
+6
+11
+Wizard - Cam Payne
+19
+8
+3
+29
+20
+2
+Monk - Cara Van
+11
+9
+20
+7
+19
+30
+Paladin - Casey Macy
+26
+14
+21
+19
+9
+8
+Ranger - Claire Annette Reed
+16
+23
+19
+15
+14
+13
+Sorcerer - Anne Teak
+13
+17
+5
+27
+15
+21
+Thief - Anna Prentice
+7
+28
+15
+13
+10
+30
+Warlock - Billy Rubin
+18
+4
+24
+21
+9
+11
